@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React Upated NOW NOW SIMA IS THE BEST
         </a>
       </header>
     </div>
